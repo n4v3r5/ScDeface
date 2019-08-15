@@ -2,14 +2,14 @@
 #######################
 #
 #######################
-mess = """*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*
+mess = """*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
              Buat Scrib Deface Mudah        
              By   : Mr.N4V3R5 & N0n4L34          
              Team : Wibu Tersakiti Team
-*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*"""
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_"""
 
 print mess
-print "Dibikin oleh MiSetya"
+print ""
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
